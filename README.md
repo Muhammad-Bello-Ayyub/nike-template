@@ -10,8 +10,6 @@ This project was created to practice and demonstrate my skills in web developmen
 
 - **Tailwind CSS:** I extensively utilized Tailwind CSS for styling. Tailwind CSS is a utility-first CSS framework that I found incredibly efficient and powerful for designing responsive and visually appealing user interfaces.
 
-- **Chakra UI:** In some parts of the project, I incorporated Chakra UI components to enhance the overall user experience.
-
 - **Responsive Design:** Ensuring that the website looks great and functions well on both desktop and mobile devices was a top priority.
 
 - **GitHub:** I used GitHub for version control and collaboration, which helped me manage the project efficiently.
