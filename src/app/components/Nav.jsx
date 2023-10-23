@@ -1,8 +1,15 @@
 import { headerLogo } from "@/assets/images"
 import Image from "next/image"
 import Link from "next/link"
-import { navLinks } from "../constants/page"
+// import { navLinks } from "../constants/page"
 import { hamburger } from "@/assets/icons"
+
+const navLinks = [
+  { href: "#home", label: "Home" },
+  { href: "#about-us", label: "About Us" },
+  { href: "#products", label: "Products" },
+  { href: "#contact-us", label: "Contact Us" },
+];
 
 const Nav = () => {
   return (
