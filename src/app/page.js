@@ -1,13 +1,21 @@
-import { 
-  Hero,
-  Footer,
-  Services,
-  Subscribe,
-  SpecialOffer,
-  SuperQuality,
-  CustomerReviews,
-  PopularProducts, } from "./sections/page";
+// import { 
+//   Hero,
+//   Footer,
+//   Services,
+//   Subscribe,
+//   SpecialOffer,
+//   SuperQuality,
+//   CustomerReviews,
+//   PopularProducts, } from "./sections/page";
 import Nav from "./components/Nav";
+import Hero from "./sections/Hero";
+import Footer from "./sections/Footer";
+import Services from "./sections/Services";
+import Subscribe from "./sections/Subscribe";
+import SpecialOffer from "./sections/SpecialOffer";
+import SuperQuality from "./sections/SuperQuality";
+import CustomerReviews from "./sections/CustomerReviews";
+import PopularProducts from "./sections/PopularProducts";
 
 const Home = () => (
   <main className="relative">
