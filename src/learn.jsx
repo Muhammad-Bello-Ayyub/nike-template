@@ -1,3 +1,12 @@
+import React from 'react'
+
+const learn = () => {
+  return (
+    <div>learn</div>
+  )
+}
+
+export default learn
 {/* <main class="p-5 space-y-2">
   <h1 class="text-center text-2xl text-green-400">Hello World</h1>
   <div class="w-full h-10 bg-violet-200 border-violet-600 border-2 rounded-md my-4 p-2">
